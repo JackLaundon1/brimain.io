@@ -14,9 +14,13 @@
         max-width: 940px;
         padding: 0 10px;
     }
+    .explosions img{
+        position:absolute;
+        bottom: 0px
+        }
     
     .header {
-        background-image: url(/brimain.PNG);
+        background-image: url(/newbackground.png);
         background-size: cover;
         height: 930px;
         text-align: center;
