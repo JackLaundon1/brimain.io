@@ -18,6 +18,11 @@
         position:absolute;
         bottom: 0px
         }
+    .rightexplosions img{
+        position: absolute;
+        right:90px;
+        bottom: 0px;
+    }
     
     .header {
         background-image: url(/newbackground.png);
